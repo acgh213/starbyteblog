@@ -1,2 +1,2 @@
-export const SITE_TITLE = "Cassidy's blog template";
-export const SITE_DESCRIPTION = "A blog template for you!";
+export const SITE_TITLE = "Cassiopeis's blog";
+export const SITE_DESCRIPTION = "a wonderful blog";
